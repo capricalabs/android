@@ -1,0 +1,1 @@
+Sample files from a custom android email application. Source based on original android email app, featuring changes like message groups, sorting, and column resizing.

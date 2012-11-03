@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">UtterFy</string>
+	<string name="search">Search for a URL</string>
+	<string name="button_search">Go</string>
+	<string name="url">Target URL</string>
+	<string name="button_grab">Grab</string>
+	<string name="button_capture">Capture another photo</string>
+</resources>

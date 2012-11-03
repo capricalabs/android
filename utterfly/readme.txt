@@ -1,0 +1,1 @@
+Proof of concept for a possible android app - take picture, enter a tag and search the web for a suitable link.
